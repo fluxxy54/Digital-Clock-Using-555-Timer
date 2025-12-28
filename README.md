@@ -1,11 +1,10 @@
 # Digital Clock Using 555 Timer
 
-**Status:** Hardware Simulation
-
 A complete digital clock system implemented using TTL logic ICs and a 555 Timer IC configured in astable mode. The design covers clock pulse generation, time counting, comparison logic, display driving, and alarm signaling, making it suitable for academic evaluation in Logic Design and Digital Systems courses.
 
-**Institution:** Benha University – Faculty of Computers & Artificial Intelligence  
 **Course:** Logic Design
+**Demonstration Video** :
+https://youtu.be/xX-m4tWRl7I?si=1TJ5L79duU5Bw_Y_
 
 ## 📸 Hardware Preview
 
@@ -86,7 +85,8 @@ Clock frequency ≈ 1 Hz, appropriate for real-time second counting.
 6. 7408 / 7404 logic gates provide combinational control
 7. Buzzer activates when comparator conditions are met
 
-*(Insert block diagram here)*
+<img width="1191" height="739" alt="image" src="https://github.com/user-attachments/assets/325cd6a2-d689-4add-b2a1-f8b349752683" />
+
 
 ## ⚠️ Technical Notes
 
