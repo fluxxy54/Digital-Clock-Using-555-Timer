@@ -9,7 +9,8 @@ A complete digital clock system implemented using TTL logic ICs and a 555 Timer 
 
 ## 📸 Hardware Preview
 
-*(Insert Proteus / Multisim schematic, timing waveform, or hardware photo here)*
+![Digital_Clock](https://github.com/user-attachments/assets/705e862e-e98b-4a17-ad9e-1627a3801fb8)
+
 
 ## 🚀 Features
 
