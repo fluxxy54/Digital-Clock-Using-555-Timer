@@ -3,7 +3,8 @@
 A complete digital clock system implemented using TTL logic ICs and a 555 Timer IC configured in astable mode. The design covers clock pulse generation, time counting, comparison logic, display driving, and alarm signaling, making it suitable for academic evaluation in Logic Design and Digital Systems courses.
 
 **Course:** Logic Design
-**Demonstration Video** :
+
+**Demonstration Video (AR)** 
 https://youtu.be/xX-m4tWRl7I?si=1TJ5L79duU5Bw_Y_
 
 ## 📸 Hardware Preview
